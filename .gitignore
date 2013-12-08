@@ -5,7 +5,6 @@ docs/
 db/
 *.db
 *.log
-config/
 downloads/
 uploads/
 backup/
