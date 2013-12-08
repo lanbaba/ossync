@@ -1,0 +1,15 @@
+.DS_Store
+*.pyc
+doc/
+docs/
+db/
+*.db
+*.log
+config/
+downloads/
+uploads/
+backup/
+logs/
+*.bak
+setting.py
+*.key
