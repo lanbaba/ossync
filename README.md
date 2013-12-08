@@ -1,6 +1,6 @@
-# Ossync
+# OSSync
 
-Ossync是一款开源的、基于inotify机制的阿里云同步上载工具，采用Python开发。License : [MIT](http://rem.mit-license.org/).
+OSSync是一款开源的、基于inotify机制的阿里云同步上载工具，采用Python开发。License : [MIT](http://rem.mit-license.org/).
 
 ## 主要特色
  
